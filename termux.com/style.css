@@ -1,0 +1,22 @@
+.section a {
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.title-text {
+  text-align: center;
+}
+
+.button {
+    display: inline-block;
+    height: 100ыpx;
+    line-height: 100px;
+    position: relative;
+    border: 10px solid white;
+    padding: 0 5rem;
+}
+
+body {
+  background: #000000;
+}
